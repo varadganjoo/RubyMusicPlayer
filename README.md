@@ -1,0 +1,30 @@
+
+# Ruby Music Player
+
+This is a basic music player that relies on Gosu as a gui library.
+
+The player allows user to pause and play music through various songs as well select next and previous songs. The user can also create playlists and play music from the playlist.
+
+The player also lists the songs' artists and genre in their relevant sections.
+
+
+## Screenshots
+
+![App Screenshot](https://drive.google.com/file/d/1L38AIVM-MvN5lF_2Z0LSAsV8c5vpGUG4/view?usp=sharing)
+![App Screenshot](https://drive.google.com/file/d/1lPKmBzMfgpartGlIVvPchSbs3vPP9-Bk/view?usp=sharing)
+
+
+## Installation - Gosu
+
+To Get Started, you will need to install Ruby on your device. The link to download is in the Acknowledgements.
+
+Once Ruby is downloaded and installed, Gosu will need to be installed by opening your terminal and typing "gem install gosu"
+
+This will install the relevant libraries to run the code.
+    
+## Acknowledgements
+
+ - [Drake - Scorpio]
+ - [Travis Scott - Astroworld]
+ - [Gosu](https://www.libgosu.org/ruby.html)
+
