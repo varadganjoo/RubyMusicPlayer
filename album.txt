@@ -1,0 +1,92 @@
+6
+Scorpion
+Z
+Drake/Image/drake.jpg
+2
+5
+Survival
+Drake/Scorpion/01 Drake - Survival.mp3
+Nonstop
+Drake/Scorpion/02 Drake - Nonstop.mp3
+Elevate
+Drake/Scorpion/03 Drake - Elevate.mp3
+Emotionless
+Drake/Scorpion/04 Drake - Emotionless.mp3
+God's Plan
+Drake/Scorpion/05 Drake - God's Plan.mp3
+Astroworld
+E
+Travis-Scott/Image/travis.jpg
+5
+5
+Stargazing
+Travis-Scott/ASTROWORLD/01 Travis Scott - STARGAZING.mp3
+Carousel
+Travis-Scott/ASTROWORLD/02 Travis Scott - CAROUSEL.mp3
+Sicko Mode
+Travis-Scott/ASTROWORLD/03 Travis Scott - SICKO MODE.mp3
+R.I.P. Screw
+Travis-Scott/ASTROWORLD/04 Travis Scott - R.I.P. SCREW.mp3
+Stop trying to be God
+Travis-Scott/ASTROWORLD/05 Travis Scott - STOP TRYING TO BE GOD.mp3
+Gully Boy
+C
+Travis-Scott/Image/gullyboy.jpg
+3
+5
+Stargazing
+Travis-Scott/ASTROWORLD/01 Travis Scott - STARGAZING.mp3
+Carousel
+Travis-Scott/ASTROWORLD/02 Travis Scott - CAROUSEL.mp3
+Sicko Mode
+Travis-Scott/ASTROWORLD/03 Travis Scott - SICKO MODE.mp3
+R.I.P. Screw
+Travis-Scott/ASTROWORLD/04 Travis Scott - R.I.P. SCREW.mp3
+Stop trying to be God
+Travis-Scott/ASTROWORLD/05 Travis Scott - STOP TRYING TO BE GOD.mp3
+Damn.
+A
+Drake/Image/kendrick.jpg
+1
+5
+Survival
+Drake/Scorpion/01 Drake - Survival.mp3
+Nonstop
+Drake/Scorpion/02 Drake - Nonstop.mp3
+Elevate
+Drake/Scorpion/03 Drake - Elevate.mp3
+Emotionless
+Drake/Scorpion/04 Drake - Emotionless.mp3
+God's Plan
+Drake/Scorpion/05 Drake - God's Plan.mp3
+Damn.
+A
+Drake/Image/kendrick.jpg
+1
+5
+Survival
+Drake/Scorpion/01 Drake - Survival.mp3
+Nonstop
+Drake/Scorpion/02 Drake - Nonstop.mp3
+Elevate
+Drake/Scorpion/03 Drake - Elevate.mp3
+Emotionless
+Drake/Scorpion/04 Drake - Emotionless.mp3
+God's Plan
+Drake/Scorpion/05 Drake - God's Plan.mp3
+Damn.
+A
+Drake/Image/kendrick.jpg
+1
+5
+Survival
+Drake/Scorpion/01 Drake - Survival.mp3
+Nonstop
+Drake/Scorpion/02 Drake - Nonstop.mp3
+Elevate
+Drake/Scorpion/03 Drake - Elevate.mp3
+Emotionless
+Drake/Scorpion/04 Drake - Emotionless.mp3
+God's Plan
+Drake/Scorpion/05 Drake - God's Plan.mp3
+
