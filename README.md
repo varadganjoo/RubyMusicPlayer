@@ -27,4 +27,5 @@ This will install the relevant libraries to run the code.
  - [Drake - Scorpio]
  - [Travis Scott - Astroworld]
  - [Gosu](https://www.libgosu.org/ruby.html)
+ - [Ruby](https://www.ruby-lang.org/en/documentation/installation/)
 
